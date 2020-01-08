@@ -1,0 +1,32 @@
+[
+	{
+		"country": "Australia",
+		"places": [
+			{
+				"name": "Karlamilyi National Park",
+				"lat": "-22.607176",
+				"lon": "122.293757"
+			},
+			{
+				"name": "Purnululu National Park",
+				"lat": "-17.529523",
+				"lon": "128.400841"
+			}
+		]
+	},
+	{
+		"country": "Canada",
+		"places": [
+			{
+				"name": "Kluane National Park and Reserve",
+				"lat": "60.750033",
+				"lon": "-139.499906"
+			},
+			{
+				"name": "Prince Albert National Park",
+				"lat": "53.922933",
+				"lon": "-106.083159"
+			}
+		]
+	}
+]
